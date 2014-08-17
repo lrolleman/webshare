@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="labstyle.css">
 	</head>
 	<body>
-		<table>
+		<table id="scorebar">
 			<tr>
 				<?php
 					if ($_POST["player1"]) {

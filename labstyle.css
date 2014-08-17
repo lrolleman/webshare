@@ -10,5 +10,10 @@ p {
 }
 
 body {
-	color: black;
+	background-color: black;
+}
+
+#scorebar {
+	width: 100%;
+	padding: 10px;
 }
